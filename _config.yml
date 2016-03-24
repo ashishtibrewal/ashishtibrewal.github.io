@@ -9,9 +9,9 @@
 title: Ashish Tibrewal
 email: ashish.tibrewal@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to my corner of the world wide web. I am currently in 
-  my 4th year studying Computer Science & Electronics at the 
-  University of Bristol.
+  Welcome to my corner of the world wide web. I am a 4th year
+  Computer Science & Electronics student at the University of
+  Bristol.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 linkedin_username: tibrewalashish
