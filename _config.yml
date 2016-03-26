@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Ashish Tibrewal
+bio: 'Computer science, electronics, lawn tennis, photography, coffee drinking'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://koppl.in/indigo
+url: https://ashishtibrewal.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -25,17 +25,17 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: AshishT08
 # google: mygoogle
-# instagram: myinstagram
+instagram: ashisht08
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+linkedin: tibrewalashish
+# youtube: myyoutube
+spotify: 1152632347
+github: ashishtibrewal
+# medium: medium
+email: ashish.tibrewal@hotmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
