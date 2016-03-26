@@ -1,5 +1,5 @@
 ## Details
-[Link](ashishtibrewal.github.io) to the website.
+[Link](https://ashishtibrewal.github.io) to the website.
 
 Credits to [Sérgio Kopplin](https://github.com/sergiokopplin) for creating and maintaining the [Indigo](https://github.com/sergiokopplin/indigo) theme.
 
