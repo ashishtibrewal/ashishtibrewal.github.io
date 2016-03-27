@@ -6,14 +6,13 @@ permalink: /about/index.html
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Born in <a href="https://www.google.co.uk/maps/place/Assam,+India/" target="_blank">Assam, India</a>.
-I studied at <a href="https://www.assamvalleyschool.com" target="_blank"> The Assam Valley School</a> where I spent
-9 years, completing both junior school and high school.
-
-I then decided to move to the Bristol, UK for my higher studies. I'm currently in my 4<sup>th</sup> year doing a Master's
-degree in Computer Science & Electronics at the University of Bristol.
+I studied at the <a href="https://www.assamvalleyschool.com" target="_blank">Assam Valley School</a> (AVS) 
+where I spent 9 years, completing both junior school and high school. I graduated from AVS in 2012 and I 
+then decided to move to Bristol, UK for my higher studies. I'm currently in my final year at the 
+<a href="https://www.bris.ac.uk" target="_blank">University of Bristol</a> doing a Masters Degree in 
+<a href="http://www.bristol.ac.uk/engineering/interdisciplinary/cse/" target="_bank">Computer Science 
+and Electronics</a>. I'm due to graduate in July, 2016.
 </p>
-
-<p>Rest to be updated.</p>
 
 <h2>Skills</h2>
 
@@ -45,10 +44,62 @@ degree in Computer Science & Electronics at the University of Bristol.
 	<li>TDD e Continuous Integration</li> -->
 </ul>
 
+<h2>Units</h2>
+<h4>Year 1</h4>
+<ul>
+	<li>Discrete Mathematics</li>
+	<li>Engineering Mathematics</li>
+	<li>Electronics 1</li>
+	<li>Linear Circuits</li>
+	<li>Introduction to Microelectronics</li>
+	<li>Introduction to Computer Architecture</li>
+	<li>Object Orientated and Functional Programming</li>
+	<li>Theory of Computation</li>
+	<li>Principles of Programming</li>
+	<li>Procedural Programming</li>
+</ul>
+
+<h4>Year 2</h4>
+<ul>
+	<li>Professional Studies A</li>
+	<li>Digital Design</li>
+	<li>Control Systemts</li>
+	<li>Communications</li>
+	<li>Signals and Systems</li>
+	<li>Digital Systems</li>
+	<li>Language Engineering</li>
+	<li>Symbols, Patterns and Signals</li>
+	<li>Data Structures and Algorithms</li>
+</ul>
+
+<h4>Year 3</h4>
+<ul>
+	<li>Professional Studies B</li>
+	<li>Networks and Protocols</li>
+	<li>Mobile Communications</li>
+	<li>Digital Filters and Spectral Analysis</li>
+	<li>Industrial Research Project</li>
+	<li>High Performance Computing</li>
+</ul>
+
+<h4>Year 4</h4>
+<ul>
+	<li>Individual Research Project</li>
+	<li>Device Interconnect - Principles and Practice</li>
+	<li>Advanced DSP & FPGA Implementation</li>
+	<li>VLSI Design</li>
+	<li>Biosensors</li>
+	<li>Robotic Systems</li>
+	<li>Advanced Computer Architecture</li>
+	<li>Interactive Devices</li>
+	<li>Innovation, Entrepreneurship and Enterprise</li>
+</ul>
+
+
 <h2>Projects</h2>
 
 <ul>
 	<li>Advanced Computer Architecture - RISC Architecture Simulator (Source: <a href="https://github.com/ashishtibrewal/ACA" target="_blank">Open</a>)</li>
-	<li>Industrial Research Project - RTL PI Control Systm & UI (Source: Closed <a href="https://www.renishaw.com">Renishaw plc</a> proprietary software) - 3<sup>rd</sup> year project</li>
-	<li>Disaggregated Data Centers - Resource Allocation Simulator (Source: Closed) - 4<sup>th</sup> year project</li>
+	<li>Industrial Research Project - RTL PI Control Systm & UI (Source: Closed, <a href="https://www.renishaw.com">Renishaw plc</a> proprietary software)
+	<li>Disaggregated Data Centers - Resource Allocation Simulator (Source: Closed)
 </ul>
