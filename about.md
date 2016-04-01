@@ -100,6 +100,8 @@ and Electronics</a>. I'm due to graduate in July, 2016.
 
 <ul>
 	<li>Advanced Computer Architecture - RISC Architecture Simulator (Source: <a href="https://github.com/ashishtibrewal/ACA" target="_blank">Open</a>)</li>
-	<li>Industrial Research Project - RTL PI Control Systm & UI (Source: Closed, <a href="https://www.renishaw.com">Renishaw plc</a> proprietary software)
-	<li>Disaggregated Data Centers - Resource Allocation Simulator (Source: Closed)
+	<li>Industrial Research Project - RTL PI Control System & UI development (Source: Closed, <a href="https://www.renishaw.com">Renishaw plc</a> proprietary software)</li>
+	<li>Disaggregated Data Centers - Resource Allocation Simulator (Source: Closed)</li>
+	<li>Robotics - Swarm UAV Simulations (Source: Closed)</li>
+	<li>High Performance Computing - Optimizing Fluid Dynamic Simulations Using Distributed Computing (APIs: OpenMP, Open MPI, OpenCL) (Source: Closed)</li>
 </ul>
