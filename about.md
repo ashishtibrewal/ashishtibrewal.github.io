@@ -45,6 +45,7 @@ and Electronics</a>. I'm due to graduate in July, 2016.
 </ul>
 
 <h2>Units</h2>
+
 <h4>Year 1</h4>
 <ul>
 	<li>Discrete Mathematics</li>
@@ -94,7 +95,6 @@ and Electronics</a>. I'm due to graduate in July, 2016.
 	<li>Interactive Devices</li>
 	<li>Innovation, Entrepreneurship and Enterprise</li>
 </ul>
-
 
 <h2>Projects</h2>
 
