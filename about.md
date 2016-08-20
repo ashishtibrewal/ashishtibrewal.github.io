@@ -5,17 +5,17 @@ permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Born in <a href="https://www.google.co.uk/maps/place/Assam,+India/" target="_blank">Assam, India</a>.
+<p>I was born in <a href="https://www.google.co.uk/maps/place/Assam,+India/" target="_blank">Assam, India</a>.
 I studied at the <a href="https://www.assamvalleyschool.com" target="_blank">Assam Valley School</a> (AVS) 
-where I spent 9 years, completing both junior school and high school. I graduated from AVS in 2012 and I 
-then decided to move to Bristol, UK for my higher studies. I'm currently in my final year at the 
-<a href="https://www.bris.ac.uk" target="_blank">University of Bristol</a> doing a Masters Degree in 
+where I spent 9 years completing both junior school and high school. I graduated from AVS in 2012 and I 
+then moved to Bristol, UK for my higher studies. I recently completed my Masters Degree in 
 <a href="http://www.bristol.ac.uk/engineering/interdisciplinary/cse/" target="_bank">Computer Science 
-and Electronics</a>. I'm due to graduate in July, 2016.
+and Electronics</a> at the <a href="https://www.bris.ac.uk" target="_blank">University of Bristol</a> and graduated with an Upper Second Class (2:1) in my degree. I'm currently looking for full-time graduate software development/engineering roles — I'm also very keen on working as a freelance developer unitl I find something more permanent. Please feel free to go through my previous work/projects (either on <a href="{{ site.github }}" target="_blank">GitHub</a> or the <a href="#projects"> list of projects</a> below) and my <a href="{{ site.url }}/{{ site.cv }}" target="_blank">CV</a>. If you would like futher information or have any questions, please do not hesistate
+to drop me an <a href="mailto:{{ site.email }}">email</a>.
 </p>
 
 <h2>Skills</h2>
-
+<!--TODO: Add separate lists for programming languages, technologies, libraries and interests -->
 <ul class="skill-list">
 	<li>C/C++</li>
 	<li>Java</li>
@@ -23,11 +23,14 @@ and Electronics</a>. I'm due to graduate in July, 2016.
 	<li>HTML, CSS, JavaScript</li>
 	<li>.NET Framework (WinForms, WPF)</li>
 	<li>Git</li>
-	<li>XML</li>
-	<li>Bash</li>
+	<li>UNIX Shell Scripting (Bash)</li>
 	<li>VHDL, Verilog</li>
 	<li>MATLAB</li>
 	<li>HPC (OpenMP, Open MPI, OpenCL)</li>
+  <li>OpenGL, OpenCV (EmguCV)</li>
+	<li>XML</li>
+  <li>YAML, Markdown</li>
+  <li>SQL</li>
 <!-- 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
@@ -96,7 +99,7 @@ and Electronics</a>. I'm due to graduate in July, 2016.
 	<li>Innovation, Entrepreneurship and Enterprise</li>
 </ul>
 
-<h2>Projects</h2>
+<h2><a id="projects"></a>Projects</h2>
 
 <ul>
 	<li>Advanced Computer Architecture - RISC Architecture Simulator (Source: <a href="https://github.com/ashishtibrewal/ACA" target="_blank">Open</a>)</li>

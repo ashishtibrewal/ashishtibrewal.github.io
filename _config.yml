@@ -1,13 +1,13 @@
 # main text of home
 name: Ashish Tibrewal
-bio: 'Computer science, electronics, lawn tennis, photography, coffee drinking'
+bio: 'Computer science, electronics, software development, lawn tennis, photography, coffee, cooking, baking'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
 # CV
-cv: 'assets/CV/AshishTibrewal.CV'
+cv: 'assets/CV/AshishTibrewalCV.pdf'
 
 url: https://ashishtibrewal.github.io
 # your url: http://USERNAME.github.io
