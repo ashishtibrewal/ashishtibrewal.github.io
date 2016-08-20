@@ -6,6 +6,9 @@ bio: 'Computer science, electronics, lawn tennis, photography, coffee drinking'
 external-image: false
 picture: 'assets/images/profile.jpg'
 
+# CV
+cv: 'assets/CV/AshishTibrewal.CV'
+
 url: https://ashishtibrewal.github.io
 # your url: http://USERNAME.github.io
 
