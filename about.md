@@ -104,7 +104,7 @@ to drop me an <a href="mailto:{{ site.email }}">email</a>.
 <ul>
 	<li>Advanced Computer Architecture - RISC Architecture Simulator (Source: <a href="https://github.com/ashishtibrewal/ACA" target="_blank">Open</a>)</li>
 	<li>Industrial Research Project - RTL PI Control System & UI development (Source: Closed, <a href="https://www.renishaw.com">Renishaw plc</a> proprietary software)</li>
-	<li>Disaggregated Data Centers - Resource Allocation Simulator (Source: Closed)</li>
+	<li>Disaggregated Data Centers - Resource Allocation Simulator (Source: Closed, <a href="{{ site.url }}/{{ site.doc }}/thesis.pdf" target="_blank">Thesis</a>)</li>
 	<li>Robotics - Swarm UAV Pollutant Cloud Tracking Simulations (Source: Closed)</li>
 	<li>High Performance Computing - Optimizing Fluid Dynamic Simulations Using Distributed Computing (APIs: OpenMP, Open MPI, OpenCL) (Source: Closed)</li>
 	<li>Language Engineering - Compiler Design and Semantic Analysis (Source: Closed)</li>

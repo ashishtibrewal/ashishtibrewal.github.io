@@ -9,6 +9,9 @@ picture: 'assets/images/profile.jpg'
 # CV
 cv: 'assets/CV/AshishTibrewalCV.pdf'
 
+# Documents directory
+doc: 'assets/doc/'
+
 url: https://ashishtibrewal.github.io
 # your url: http://USERNAME.github.io
 
